@@ -24,7 +24,7 @@
 				"files.autoSave": "afterDelay",
 				"editor.formatOnPaste": true,
 				"editor.fontSize": 15,
-				"terminal.integrated.fontSize": 14,
+				"terminal.integrated.fontSize": 15,
 				"workbench.iconTheme": "material-icon-theme",
 				"workbench.colorTheme": "Default Dark Modern",
 				// to do tree settings
